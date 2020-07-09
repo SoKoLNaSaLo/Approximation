@@ -1,8 +1,9 @@
-# Approximation-dots
-This project is a practical task in computer science.
+# Approximation
+Проект для технологической практики.
 # How to use
 <ol>
-  <li>Launch program from folder "bin".</li>
-  <li>You have a table from left side, which can be filled by you.</li>
-  <li>If you click to button "Approximate" then the program draws your dots and a approximation line.</li>
+  <li>Запустите программу из папки "bin".</li>
+  <li>В поле справа Вы можете ввести координаты точек.</li>
+  <li>При нажатии кнопки "произвести аппроксимацию", заданные точки отобразятся на экране и будет начерчен график аппроксимации.</li>
+  <li>Правее графика отобразится уравнение искомой аппроксимирующей прямой.</li>
 </ol>
